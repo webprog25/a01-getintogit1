@@ -1,3 +1,57 @@
-    body {
-    font-family: KARLA;
-    }
+/*Copyright 2011 The Roboto Project Authors (https://github.com/googlefonts/roboto-classic)
+This Font Software is licensed under the SIL Open Font License, Version 1.1 . This license is copied below, and is also available with a FAQ at: https://openfontlicense.org*/
+
+body {
+  background-color: #A77B5F;
+  color: white;
+  font-family: "Roboto", sans-serif;
+  font-size: 18px;
+  margin: 30px;
+  margin-top: 40px;
+  max-width: 700px;
+}
+
+@media screen and (max-width: 500px) {
+  body {
+    margin: 15px;
+    margin-top: 30px;
+  }
+}
+
+
+h1,
+h2,
+h3 {
+  margin: 0;
+  color: #B82724;
+}
+
+h1 {
+  font-size: 3em;
+}
+
+h2 {
+  margin-top: 1.5em;
+  font-size: 1.75em;
+}
+
+h3 {
+  margin-top: 0.75em;
+}
+
+p {
+  line-height: 1.4;
+  margin: 0.5em 0;
+}
+
+.spacer {
+  margin: 1em;
+  text-align: center;
+}
+
+ul {
+  line-height: 1.6;
+  margin: 0.5em 0;
+  padding-left: 2em;
+}
+
