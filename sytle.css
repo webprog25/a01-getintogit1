@@ -18,6 +18,10 @@ body {
   }
 }
 
+img {
+  width: 25%;
+  border-radius: 15px;
+}
 
 h1,
 h2,
@@ -43,15 +47,3 @@ p {
   line-height: 1.4;
   margin: 0.5em 0;
 }
-
-.spacer {
-  margin: 1em;
-  text-align: center;
-}
-
-ul {
-  line-height: 1.6;
-  margin: 0.5em 0;
-  padding-left: 2em;
-}
-
