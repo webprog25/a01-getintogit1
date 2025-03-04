@@ -3,12 +3,8 @@ This Font Software is licensed under the SIL Open Font License, Version 1.1 . Th
 
 body {
   background-color: #A77B5F;
-  color: white;
+  color: #B82724;
   font-family: "Roboto", sans-serif;
-  font-size: 18px;
-  margin: 30px;
-  margin-top: 40px;
-  max-width: 700px;
 }
 
 @media screen and (max-width: 500px) {
@@ -26,24 +22,4 @@ img {
 h1,
 h2,
 h3 {
-  margin: 0;
   color: #B82724;
-}
-
-h1 {
-  font-size: 3em;
-}
-
-h2 {
-  margin-top: 1.5em;
-  font-size: 1.75em;
-}
-
-h3 {
-  margin-top: 0.75em;
-}
-
-p {
-  line-height: 1.4;
-  margin: 0.5em 0;
-}
